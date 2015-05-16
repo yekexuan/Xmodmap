@@ -3,3 +3,6 @@ keysym Caps_Lock = Control_L
 add Control = Control_L
 keysym Escape = grave asciitilde grave asciitilde
 keysym grave = Escape
+keysym asciitilde = Escape
+keycode 51 = BackSpace BackSpace BackSpace BackSpace
+keycode 22 = backslash bar backslash bar
